@@ -1,5 +1,3 @@
-CALCULADORA.PNG
-
 Calculadora
 
 Esta é uma simples calculadora que pode realizar operações básicas como adição, subtração, multiplicação e divisã...
